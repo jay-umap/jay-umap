@@ -4,9 +4,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jay-umap&label=Profile%20views&color=0e75b6&style=flat" alt="jay-umap" /> </p>
 
-- 🌱 I’m currently learning **Bachelor of Computer Applications**
+- 🌱 I’ve completed my **Bachelor of Computer Applications**
 
-- 💬 Ask me about **python**
+- 💬 Ask me about **python**, **Data Analysis** 
 
 - 📫 How to reach me **umapjayr@gmail.com**
 
