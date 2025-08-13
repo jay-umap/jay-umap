@@ -6,7 +6,7 @@
 
 - 🌱 I’ve completed my **Bachelor of Computer Applications**
 
-- 💬 Ask me about **python**, **Data Analysis** 
+- 💬 Ask me about **python**, **Data Analysis**, **Machine Learning** 
 
 - 📫 How to reach me **umapjayr@gmail.com**
 
